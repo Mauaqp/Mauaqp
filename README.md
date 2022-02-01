@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mauaqp
 - 👀 I’m interested in web developing and data science
 - 🌱 I’m currently learning full stack python, mern and java
-- 💞️ I’m looking to collaborate on health and safety related projects
+- 💞️ I’m looking to collaborate on software development for health and safety projects
 - 📫 How to reach me : peraltilla93@hotmail.com
 
 <!---
