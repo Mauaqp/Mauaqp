@@ -1,12 +1,12 @@
-Industrial Health & Safety Engineer | Intelligent Risk Systems Architect
+Industrial Health & Safety Engineer | Intelligent Risk Systems Architect ⚙️
 
 I design and develop AI-driven solutions for high-impact industrial and mining environments.
 
 Founder mindset. Systems thinker. Focused on construction, transportation safety, predictive risk modeling, and intelligent monitoring platforms.
 
 Currently developing:
-• Sentiment Analysis framework using BERT
-• Data-driven safety monitoring interfaces (Python-based GUI)
+• Sentiment Analysis framework using BERT 🤖
+• Data-driven safety monitoring interfaces (Python-based GUI) 📊
 • Applied AI solutions for industrial safety
 
 Open to strategic collaborations in safety technology and industrial AI.
